@@ -14,6 +14,7 @@
 		ED1AB99021A0A4EA00AAA1F5 /* FontsAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1AB98F21A0A4EA00AAA1F5 /* FontsAppTests.swift */; };
 		ED1AB99B21A0B2A500AAA1F5 /* FavoritesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1AB99A21A0B2A500AAA1F5 /* FavoritesList.swift */; };
 		ED1AB99D21A0C39300AAA1F5 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1AB99C21A0C39300AAA1F5 /* RootViewController.swift */; };
+		EDE140AE21ACB14700109825 /* FontsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE140AD21ACB14700109825 /* FontsListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		ED1AB99121A0A4EA00AAA1F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ED1AB99A21A0B2A500AAA1F5 /* FavoritesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesList.swift; sourceTree = "<group>"; };
 		ED1AB99C21A0C39300AAA1F5 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
+		EDE140AD21ACB14700109825 /* FontsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontsListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				ED1AB97A21A0A4E400AAA1F5 /* AppDelegate.swift */,
+				EDE140AD21ACB14700109825 /* FontsListViewController.swift */,
 				ED1AB99A21A0B2A500AAA1F5 /* FavoritesList.swift */,
 				ED1AB99C21A0C39300AAA1F5 /* RootViewController.swift */,
 				ED1AB97E21A0A4E400AAA1F5 /* Main.storyboard */,
@@ -201,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED1AB97B21A0A4E400AAA1F5 /* AppDelegate.swift in Sources */,
+				EDE140AE21ACB14700109825 /* FontsListViewController.swift in Sources */,
 				ED1AB99B21A0B2A500AAA1F5 /* FavoritesList.swift in Sources */,
 				ED1AB99D21A0C39300AAA1F5 /* RootViewController.swift in Sources */,
 			);
